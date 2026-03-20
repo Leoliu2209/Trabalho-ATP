@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ATP-Trab1/1.0.0": {
+        "runtime": {
+          "ATP-Trab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATP-Trab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
