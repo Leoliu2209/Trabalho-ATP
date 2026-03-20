@@ -1,7 +1,7 @@
-﻿double vtotal, vfinal;
+﻿double vcompra, vfinal = 0;
 char pagamento, cliente;
 Console.WriteLine("Informe o valor total da compra:");
-vtotal = double.Parse(Console.ReadLine());
+vcompra = double.Parse(Console.ReadLine());
 
 Console.WriteLine("Informe D para pagamento em dinheiro ou C para cartão.");
 pagamento = Convert.ToChar(Console.ReadLine().ToUpper());
@@ -36,7 +36,26 @@ else
     Console.WriteLine("Opção Inválida. Tente novamente");
 }
 
-if (pagamento == 'D' && vtotal < 100)
+if (pagamento == 'D')
 {
- vtotal = vfinal * 0.95; // 5% de desconto
+    if (vcompra <= 100)
+        vfinal = vcompra * 0.95; // 5% desconto
+    else
+        vfinal = vcompra * 0.90; // 10% desconto
 }
+else if (pagamento == 'C')
+{
+    if (vcompra <= 100)
+        vfinal = vcompra; // sem desconto
+    else if (vcompra <= 300)
+        vfinal = vcompra * 0.95; // exemplo de desconto para cartão
+    else
+        vfinal = vcompra * 0.90; // exemplo de desconto maior
+}
+else
+{
+    Console.WriteLine("Opção de pagamento inválida, saída do programa.");
+    return;
+}
+Console.WriteLine("O valor final da sua compra é de R$ " + vfinal);
+

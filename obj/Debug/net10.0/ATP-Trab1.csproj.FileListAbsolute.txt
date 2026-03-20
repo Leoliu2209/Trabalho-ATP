@@ -12,3 +12,4 @@ C:\Users\leona\Desktop\ProjetosFaculdade\ATP-Trab1\obj\Debug\net10.0\refint\ATP-
 C:\Users\leona\Desktop\ProjetosFaculdade\ATP-Trab1\obj\Debug\net10.0\ATP-Trab1.pdb
 C:\Users\leona\Desktop\ProjetosFaculdade\ATP-Trab1\obj\Debug\net10.0\ATP-Trab1.genruntimeconfig.cache
 C:\Users\leona\Desktop\ProjetosFaculdade\ATP-Trab1\obj\Debug\net10.0\ref\ATP-Trab1.dll
+C:\Users\leona\Desktop\ProjetosFaculdade\ATP-Trab1\obj\Debug\net10.0\ATP-Trab1.sourcelink.json
