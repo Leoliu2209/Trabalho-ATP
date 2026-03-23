@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\leona\\.nuget\\packages\\": {}
+    "C:\\Users\\Pimenta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leona\\Desktop\\ProjetosFaculdade\\ATP-Trab1\\ATP-Trab1.csproj",
+      "projectUniqueName": "C:\\Users\\Pimenta\\Desktop\\Projetos Faculdade\\Trabalho-ATP\\ATP-Trab1.csproj",
       "projectName": "ATP-Trab1",
-      "projectPath": "C:\\Users\\leona\\Desktop\\ProjetosFaculdade\\ATP-Trab1\\ATP-Trab1.csproj",
-      "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leona\\Desktop\\ProjetosFaculdade\\ATP-Trab1\\obj\\",
+      "projectPath": "C:\\Users\\Pimenta\\Desktop\\Projetos Faculdade\\Trabalho-ATP\\ATP-Trab1.csproj",
+      "packagesPath": "C:\\Users\\Pimenta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pimenta\\Desktop\\Projetos Faculdade\\Trabalho-ATP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Pimenta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

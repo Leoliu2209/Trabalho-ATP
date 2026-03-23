@@ -12,3 +12,18 @@ C:\Users\leona\Desktop\ProjetosFaculdade\ATP-Trab1\obj\Debug\net10.0\refint\ATP-
 C:\Users\leona\Desktop\ProjetosFaculdade\ATP-Trab1\obj\Debug\net10.0\ATP-Trab1.pdb
 C:\Users\leona\Desktop\ProjetosFaculdade\ATP-Trab1\obj\Debug\net10.0\ATP-Trab1.genruntimeconfig.cache
 C:\Users\leona\Desktop\ProjetosFaculdade\ATP-Trab1\obj\Debug\net10.0\ref\ATP-Trab1.dll
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\bin\Debug\net10.0\ATP-Trab1.exe
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\bin\Debug\net10.0\ATP-Trab1.deps.json
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\bin\Debug\net10.0\ATP-Trab1.runtimeconfig.json
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\bin\Debug\net10.0\ATP-Trab1.dll
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\bin\Debug\net10.0\ATP-Trab1.pdb
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\obj\Debug\net10.0\ATP-Trab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\obj\Debug\net10.0\ATP-Trab1.AssemblyInfoInputs.cache
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\obj\Debug\net10.0\ATP-Trab1.AssemblyInfo.cs
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\obj\Debug\net10.0\ATP-Trab1.csproj.CoreCompileInputs.cache
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\obj\Debug\net10.0\ATP-Trab1.sourcelink.json
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\obj\Debug\net10.0\ATP-Trab1.dll
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\obj\Debug\net10.0\refint\ATP-Trab1.dll
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\obj\Debug\net10.0\ATP-Trab1.pdb
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\obj\Debug\net10.0\ATP-Trab1.genruntimeconfig.cache
+C:\Users\Pimenta\Desktop\Projetos Faculdade\Trabalho-ATP\obj\Debug\net10.0\ref\ATP-Trab1.dll

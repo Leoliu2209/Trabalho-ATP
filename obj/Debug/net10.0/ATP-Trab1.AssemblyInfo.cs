@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ATP-Trab1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19ab844aa4b39eb90d99dec1580af619e00b0fbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ATP-Trab1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ATP-Trab1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
